@@ -1,4 +1,4 @@
-https://www.canva.com/design/DAGPUrebsw8/KXqF0YL6CidXp5vIgQZJmg/edit?ui=eyJFIjp7IkE_IjoiViIsIkEiOiJ1cGxvYWRfYjY5NzMyOTMtODc5OS00NThhLWFmMjgtY2Y3NzU4ODA1NTIwIiwiQiI6IkIifSwiRyI6eyJCIjp0cnVlfX0
+https://www.istockphoto.com/vector/development-gm1058690374-282950739
 <h1 align="center">Hi 👋, I'm Gülnur Yildiz</h1>
 <h3 align="center">A passionate frontend and backend developer from Norway</h3>
 
