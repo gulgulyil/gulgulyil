@@ -1,4 +1,4 @@
- [![MasterHead](https://www.istockphoto.com/vector/development-gm1058690374-282950739)
+
 <h1 align="center">Hi 👋, I'm Gülnur Yildiz</h1>
 <h3 align="center">A passionate frontend and backend developer from Norway</h3>
 
@@ -8,7 +8,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/gulnur-yildiz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulnur-yildiz" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/gulnur-yildiz-aa55901b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulnur-yildiz" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
