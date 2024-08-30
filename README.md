@@ -1,4 +1,4 @@
-https://www.istockphoto.com/vector/development-gm1058690374-282950739
+ [![MasterHead](https://www.istockphoto.com/vector/development-gm1058690374-282950739)
 <h1 align="center">Hi 👋, I'm Gülnur Yildiz</h1>
 <h3 align="center">A passionate frontend and backend developer from Norway</h3>
 
