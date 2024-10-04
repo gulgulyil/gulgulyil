@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Gülnur Yildiz</h1>
 <h3 align="center">A passionate frontend and backend developer from Norway</h3>
 
-- 🌱 I’m currently learning **JavaScript, MVL, .NET Core,DAL**
+- 🌱 I’m currently learning **JavaScript, MVC, .NET Core,DAL, Jupyter Notebook**
 
 - 📫 How to reach me **s374961@oslomet.no**
 
