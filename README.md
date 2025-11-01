@@ -2,9 +2,33 @@
 <h1 align="center">Hi 👋, I'm Gülnur Yildiz</h1>
 <h3 align="center">A passionate frontend and backend developer from Norway</h3>
 
-- 🌱 I’m currently learning **JavaScript, MVC, .NET Core,DAL, Jupyter Notebook**
+- 🌱I'm a developer who loves solving puzzles, cooking, knitting, and exploring nature.
+I’m passionate about using technology to create human-centered, meaningful solutions.*
 
-- 📫 How to reach me **s374961@oslomet.no**
+💻 Skills & Expertise
+
+☕ Java
+
+⚙️ C# & .NET
+
+⚡ JavaScript
+
+⚛️ React
+
+🚀 I focus on building user-friendly, functional, and sustainable applications.
+I enjoy learning new technologies, turning ideas into projects, and continuously improving myself.
+
+🌱 Interests
+
+🤖 Artificial Intelligence
+
+🧠 Machine Learning
+
+🎨 UI/UX Design
+
+🌍 Exploring emerging technologies
+
+- 📫 How to reach me **gulnurgulnurxxf@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
