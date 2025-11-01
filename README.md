@@ -23,13 +23,13 @@
 
 <h3>🌱 Interests</h3>
 <p>
-  🤖 Artificial Intelligence · 🧠 Machine Learning · 🎨 Internet Of Things · 🌍 Exploring emerging technologies
+  🤖 Artificial Intelligence  🧠 Machine Learning  🎨 Internet Of Things  🌍 Exploring emerging technologies
 </p>
 
 <h3>📫 Get in Touch</h3>
 <p>
   <a href="https:https://www.linkedin.com/in/gulnur-yildiz-aa55901b8/" target="_blank">LinkedIn</a> •
-  <a href="mailto:gulnurgulnurxxf@gmail.com">Email</a> •
+  <a href="mailto:gulnurgulnurxxf@gmail.com">Email</a>
 </p>
 
 ---
@@ -37,12 +37,12 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gulgulyil&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=https://github.com/gulgulyil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com?username= gulgulyil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <h3 align="center">🧩 Top Languages</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/gulgulyil&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username= gulgulyil&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
