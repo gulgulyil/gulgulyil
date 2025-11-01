@@ -2,42 +2,63 @@
 <h1 align="center">Hi 👋, I'm Gülnur Yildiz</h1>
 <h3 align="center">A passionate frontend and backend developer from Norway</h3>
 
-- 🌱I'm a developer who loves solving puzzles, cooking, knitting, and exploring nature.
-I’m passionate about using technology to create human-centered, meaningful solutions.*
-
-💻 Skills & Expertise
-
-☕ Java
-
-⚙️ C# & .NET
-
-⚡ JavaScript
-
-⚛️ React
-
-🚀 I focus on building user-friendly, functional, and sustainable applications.
-I enjoy learning new technologies, turning ideas into projects, and continuously improving myself.
-
-🌱 Interests
-
-🤖 Artificial Intelligence
-
-🧠 Machine Learning
-
-🎨 UI/UX Design
-
-🌍 Exploring emerging technologies
-
-- 📫 How to reach me **gulnurgulnurxxf@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/gulnur-yildiz-aa55901b8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulnur-yildiz" height="30" width="40" /></a>
+<p align="center">
+  I'm a developer who loves solving puzzles, cooking, knitting, and exploring nature.<br>
+  I’m passionate about using technology to create human-centered, meaningful solutions.
 </p>
+
+<h3>💻 Skills &amp; Expertise</h3>
+<p>
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="C# .NET" src="https://img.shields.io/badge/C%23%20.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
+<h3>🚀 What I Build</h3>
+<p>
+  I focus on creating user-friendly, functional, and sustainable applications.  
+  I enjoy learning new technologies, turning ideas into real projects, and constantly improving myself.
+</p>
+
+<h3>🌱 Interests</h3>
+<p>
+  🤖 Artificial Intelligence · 🧠 Machine Learning · 🎨 Internet Of Things · 🌍 Exploring emerging technologies
+</p>
+
+<h3>📫 Get in Touch</h3>
+<p>
+  <a href="https:https://www.linkedin.com/in/gulnur-yildiz-aa55901b8/" target="_blank">LinkedIn</a> •
+  <a href="mailto:gulnurgulnurxxf@gmail.com">Email</a> •
+</p>
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gulgulyil&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=https://github.com/gulgulyil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
+</p>
+
+<h3 align="center">🧩 Top Languages</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/gulgulyil&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
 <table>
   <tr>
     <th>Subject</th>
     <th>Code</th>
+  </tr>
+  <tr>
+    <td>Bacheloroppgave</td>
+    <td>DATA3900</td>
+  </tr>
+  <tr>
+    <td>Ressurseffektive programmer</td>
+    <td>DAVE3606</td>
   </tr>
   <tr>
     <td>Kunstig Intelligens</td>
