@@ -37,7 +37,7 @@
 <h3 align="center">📊 GitHub Stats</h3>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gulgulyil&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="165"/>
-  /*<img src="https://streak-stats.demolab.com?user=gulgulyil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>*/
+  <img src="https://streak-stats.demolab.com?user=gulgulyil&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 </p>
 
 <h3 align="center">🧩 Top Languages</h3>
